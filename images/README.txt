@@ -1,0 +1,1 @@
+Coloque aqui suas imagens: hero.jpg, space.jpg, logo.svg etc.
